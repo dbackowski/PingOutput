@@ -1,5 +1,5 @@
 {
-  "name": "PingOutput",
+  "name": "ping-output",
   "version": "1.0.0",
   "description": "Realtime ping output for node, inherits from EventEmitter",
   "main": "build/PingOutput.js",
