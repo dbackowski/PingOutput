@@ -6,7 +6,7 @@ Realtime ping output for node, inherits from EventEmitter.
 
 ```coffee
 
-p = require('./PingOutput')
+p = require('ping-output')
 
 ping = new p.PingOutput()
 
